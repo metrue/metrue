@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on https://giki.app
 - 👯 I’m looking to collaborate on https://github.com/metrue/fx
 - 🤔 I’m looking for help with https://github.com/metrue/fx
