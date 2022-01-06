@@ -11,6 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metrue&layout=compact&langs_count=4&hide_title=true&hide=ruby,html,d,css,objective-c)](https://github.com/metrue/github-readme-stats)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=metrue&layout=compact&&show_icons=false&hide_title=true&hide=issues,commits)](https://github.com/metrue/github-readme-stats) 
+[![Stats](https://github-readme-stats.vercel.app/api?username=metrue&layout=compact&show_icons=false&hide_title=true&hide=issues,commits)](https://github.com/metrue/github-readme-stats) 
 
-[![waka](https://github-readme-stats.vercel.app/api/wakatime?username=metrue)](https://github.com/metrue/github-readme-stats)
+[![waka](https://github-readme-stats.vercel.app/api/wakatime?username=metrue&layout=compact&show_icons=false&hide_title=true&langs_count=4)](https://github.com/metrue/github-readme-stats)
