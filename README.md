@@ -7,7 +7,7 @@
 - 💬 Ask me about Go/JavaScript
 - 📫 How to reach me, [@metrue](https://twitter.com/_metrue) or h.minghe@gmail.com 
 - 😄 Pronouns: I love Go and JavaScript.
-- ⚡ Fun fact: I'm writing Java in Booking.com, writing Go and JavaScript when I'm out of office.
+- ⚡ Fun fact: I'm writing Java in Booking.com, writing Go and JavaScript/TypeScript when I'm out of office.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metrue&layout=compact&langs_count=4&hide_title=true&hide=ruby,html,d,css,objective-c)](https://github.com/metrue/github-readme-stats)
 
