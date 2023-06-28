@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on https://giki.app
+- 🔭 I’m maintaining two indie apps [ExpenSee](https://expensee.app) and [Giki](https://giki.app)
 - 👯 I’m looking to collaborate on https://github.com/metrue/fx
 - 🤔 I’m looking for help with https://github.com/metrue/fx
 - 💬 Ask me about Go/JavaScript
